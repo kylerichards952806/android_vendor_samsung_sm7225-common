@@ -1,0 +1,1 @@
+sm7225-common/Android.mk

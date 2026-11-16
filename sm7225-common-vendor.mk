@@ -1,0 +1,1 @@
+sm7225-common/sm7225-common-vendor.mk
